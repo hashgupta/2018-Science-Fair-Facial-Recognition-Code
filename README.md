@@ -10,4 +10,4 @@ Science Fair code
 
 3. Put the images from the database in a folder named ExtendedYaleB at the same level as the model python files.
 
-4. Run the greyscale file
+4. Run the Convolutional Neural Network and Multi-Layer Perceptron. These will most likely create 

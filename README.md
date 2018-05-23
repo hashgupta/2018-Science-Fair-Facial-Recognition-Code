@@ -10,4 +10,4 @@ Science Fair code
 
 3. Put the images from the database in a folder named ExtendedYaleB at the same level as the model python files.
 
-4. 
+4. Run the greyscale file
